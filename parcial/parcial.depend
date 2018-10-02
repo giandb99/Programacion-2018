@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538484035 source:d:\lombardo\parcial\directores.c
+	<stdio.h>
+	<stdlib.h>
+	"directores.h"
+	"peliculas.h"
+
+1538484015 d:\lombardo\parcial\directores.h
+
+1538492141 d:\lombardo\parcial\peliculas.h
+
+1538492332 source:d:\lombardo\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
+1538492410 source:d:\lombardo\parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
