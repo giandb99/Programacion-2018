@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539059818 source:c:\utn\programacion y laboratorio\lombardo\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+
+1539059818 c:\utn\programacion y laboratorio\lombardo\parcial\peliculas.h
+
+1539059818 source:c:\utn\programacion y laboratorio\lombardo\parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+
